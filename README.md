@@ -1,7 +1,8 @@
  <h1> Chrome Extension - Get Data from Tabs</h1>
 
 <h2>Introduction</h2>
-<p>This is a Chrome extension that allows you to do XYZ.</p>
+<p>The Chrome tab extension is a lightweight tool that enables users to quickly and easily extract the title and URL of each open tab in their Chrome browser. This extension is perfect for anyone who wants to save their current browsing session or keep a record of the websites they visit. The extension provides a simple and intuitive user interface, with the ability to export the extracted data to a file for easy sharing and organization.p>
+<hr/>
 <h2>Installation</h2>
 <p>To install this extension, follow these steps:</p>
 <ol>
