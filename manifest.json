@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "My Extension",
+  "version": "1.0",
+  "description": "Description of my extension",
+  "permissions": ["tabs", "activeTab", "storage"],
+  "browser_action": {
+    "default_title": "My Extension",
+    "default_icon": {
+      "16": "icons/icon.png"
+    },
+    "default_popup": "popup.html"
+  }
+}
