@@ -1,5 +1,4 @@
- <h1>My Awesome Chrome Extension</h1>
- <h1>My Awesome Chrome Extension</h1>
+ <h1> Chrome Extension - Get Data from Tabs</h1>
 
 <h2>Introduction</h2>
 <p>This is a Chrome extension that allows you to do XYZ.</p>
