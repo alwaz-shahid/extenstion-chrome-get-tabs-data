@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Extension</title>
+    <title>Open Tabs</title>
     <script src="popup.js"></script>
+    <style>
+      body {
+        width: 200px;
+        height: 200px;
+        overflow: auto;
+      }
+      li {
+        padding-bottom: 2px;
+      }
+    </style>
   </head>
   <body>
-    <h1>My Extension</h1>
+    <h3>Current Tabs</h3>
+
+    <ul id="tabList"></ul>
     <button id="saveToFile">Save to File</button>
     <button id="copyLinks">Copy Links</button>
   </body>
